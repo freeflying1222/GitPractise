@@ -10,7 +10,9 @@ namespace GitPractise
             Console.WriteLine("Hello World!");
             ///当前 master， 提交-1
             ///当前 master， 继续工作，提交-1
-            ///
+            ///当前 fg，提交-1
+            ///当前 fg，pk提交
+            ///当前 release，pk提交-2
         }
     }
 }
