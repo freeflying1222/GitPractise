@@ -14,6 +14,7 @@ namespace GitPractise
             ///当前 fg，提交-1
             ///当前 fg，pk提交
             ///当前 release，pk提交-2
+            ///本地 pk +1
         }
     }
 }
